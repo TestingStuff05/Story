@@ -1,1 +1,2 @@
-Advanced stuff about git and version control
+Advanced stuff about git and version control.
+Yeah, more aliens.
